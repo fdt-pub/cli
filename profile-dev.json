@@ -1,0 +1,30 @@
+{
+  "miniapp": [
+    {
+      "name": "plugin-prep-miniapp",
+      "plugin": ["/data/fdt-pub/plugin-prep-miniapp/dist/plugin-prep-miniapp.bundle.js"]
+    },
+    {
+      "name": "plugin-create-zip",
+      "plugin": ["/data/fdt-pub/plugin-create-zip/dist/plugin-create-zip.bundle.js"]
+    },
+    {
+      "name": "plugin-upload",
+      "plugin": ["/data/fdt-pub/plugin-upload/dist/plugin-upload.bundle.js"]
+    }
+  ],
+  "web": [
+    {
+      "name": "plugin-prep-web",
+      "plugin": ["/data/fdt-pub/plugin-prep-web/dist/plugin-prep-web.bundle.js"]
+    },
+    {
+      "name": "plugin-create-zip",
+      "plugin": ["/data/fdt-pub/plugin-create-zip/dist/plugin-create-zip.bundle.js"]
+    },
+    {
+      "name": "plugin-upload",
+      "plugin": ["/data/fdt-pub/plugin-upload/dist/plugin-upload.bundle.js"]
+    }
+  ]
+}

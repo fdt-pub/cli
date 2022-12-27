@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --name fdt-pub-cli --rm -it fdt-pub/cli:latest $1

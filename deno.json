@@ -1,0 +1,8 @@
+{
+  "importMap": "./import-map.json",
+  "tasks": {
+    "bundle": "deno bundle ./src/main.ts >dist/cli.bundle.js",
+    "compile": "denocompile --allow-env --allow-net --output ./cli ./src/main.ts",
+    "run": "deno run --allow-env --allow-read --allow-write --allow-net --allow-run ./src/main.ts"
+  }
+}

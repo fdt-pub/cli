@@ -1,0 +1,30 @@
+{
+  "miniapp": [
+    {
+      "name": "plugin-prep-miniapp",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-prep-miniapp.bundle.js"]
+    },
+    {
+      "name": "plugin-create-zip",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-create-zip.bundle.js"]
+    },
+    {
+      "name": "plugin-upload",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-upload.bundle.js"]
+    }
+  ],
+  "web": [
+    {
+      "name": "plugin-prep-web",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-prep-web.bundle.js"]
+    },
+    {
+      "name": "plugin-create-zip",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-create-zip.bundle.js"]
+    },
+    {
+      "name": "plugin-upload",
+      "plugin": ["https://asset-17lt.obs.cn-north-1.myhuaweicloud.com/plugin/plugin-upload.bundle.js"]
+    }
+  ]
+}
